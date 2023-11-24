@@ -1,0 +1,90 @@
+<html>
+
+<head>
+    <img src="./img/favicon.ico">
+</head>
+
+<body>
+    <fieldset>
+        <section>
+            <form>
+                <h2>Create a burguer!</h2>
+
+                <label for="What type protein you like?">What type protein you like?:</label>
+                <input type="text" id="What type protein you like?" name="What type protein you like?"><br><br>
+
+                <label for="How many patties would you like?">How many patties would you like?</label>
+                <input type="number" id="pattyInput" min="0" max="10">
+                <br><br>
+
+
+
+
+
+
+                <label for="cooking-level">How do you want your patty cooked</label>
+                <br>
+                <label>Rare</label>
+                <input type="range" id="rare" name="Well-Done" min="1" max="5" value="3">
+                <label>Well-Done</label>
+                <br><br>
+
+
+                <legend>What topping would you like?</legend>
+                <input type="checkbox" id="lettuce" name="topping" value="lettuce">
+                <label for="lettuce">Lettuce</label>
+
+                <input type="checkbox" id="tomato" name="topping" value="tomato">
+                <label for="tomato">Tomato</label>
+                <input type="checkbox" id="onion" name="topping" value="onion">
+                <label for="onion">Onion</label>
+
+                <br><br>
+
+
+
+                <legend>Whould you like to add chesse?</legend>
+                <input type="radio" name="status" value="Yes" id="Yes"> <label for="Yes">Yes</label>
+                <br>
+
+                <input type="radio" name="status" value="No" id="No"> <label for="No">No</label>
+                <br><br>
+
+
+
+                </select>
+
+
+                <label for="bun">What type of bum would you like?</label>
+                <select id="bun" name="bun">
+                    <option value="Sesame">Sesame</option>
+                    <option value="Potato">Potato</option>
+                    <option value="Pretzel">Pretzel</option>
+
+                </select><br><br>
+
+
+
+                <label for="sauce-type">What type of sauce would you like?</label>
+                <input list="sauce-options" id="sauce-type" name="sauce-type" />
+
+                <datalist id="sauce-options">
+                    <option value="Ketchup">Ketchup</option>
+                    <option value="Mayo">Mayonnaise</option>
+                    <option value="Mustard">Mustard</option>
+                    <option value="Other">Other</option>
+                </datalist>
+                <br><br>
+
+                <legend for="anything-else">Anything else you want to add?</legend>
+                <textarea id="anything-else" name="anything-else"></textarea>
+
+                <br>
+                <input type="submit" value="Submit">
+
+    </fieldset>
+    </form>
+    </section>
+</body>
+
+</html>

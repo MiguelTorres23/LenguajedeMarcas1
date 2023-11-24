@@ -1,0 +1,28 @@
+{
+	"Books": [
+	{
+	
+	"Title": "Don Quixote de la Mancha",
+	"author": "Miguel de Cervantes",
+    "ISBN": 9788493806125,
+    "publishedDate": "1605",
+    "price": " 190,00 €",
+	"categories" : "Novela , Parodia, Satira, Farsa",
+	"availability": "in stock"
+	},
+	
+
+	{
+		
+	"Title": "Las mil y una noches",
+	"author": " Las traducciones son las que tienen autor, la mas leída en la actualidad es la de Blasco Ibañez",
+    "ISBN": 9788417430481,
+    "publishedDate": "entre 1940 y 1944",
+    "price": " 15,00 €",
+	"categories" : "Ficción, Folclore, Narración enmarcada",
+	"availability": "in stock" 
+	}
+	
+	
+		]
+}

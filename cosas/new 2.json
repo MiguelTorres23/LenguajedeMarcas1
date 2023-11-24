@@ -1,0 +1,23 @@
+{
+	
+	
+	"Director's name": "Christopher Nolan",
+   "Birthdate": " 30 de julio de 1970",
+  
+    "Birthplace": "Westminster, Londres, Reino Unido",
+    "Deathdate"  : null,
+	"Deathplace" : null,
+	"Listofmovies": [
+	{
+    "Movietitle": "Oppenheimer",
+    "Filmingdate": "21 de julio de 2023"
+	},
+	
+	{
+	  "Movietitle": "Interstellar",
+      "Filmingdate": "7 de noviembre de 2014"
+		
+	},
+	
+	]
+}

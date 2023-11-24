@@ -1,0 +1,23 @@
+         
+
+<mm xmlns:a="http://www.rr.org" xmlns="http://www.ss.org">                         <!-- <mm> pertenece a "http://www.ss.org" --!>
+
+         <a:nn>                                                                     <!-- <mm> pertenece a "http://www.rr.org" --!>
+
+		<pp xmlns="http://www.tt.org" xmlns:b="http://www.uu.org">                 <!-- <mm> pertenece a "http://www.tt.org" --!>
+
+			<b:oo>Hello</b:oo>                                                     <!-- <mm> pertenece a "http://www.uu.org" --!>
+
+		</pp>                                                                    <!-- <mm> pertenece a "http://www.uu.org" --!>
+
+		<c:qq xmlns="http://www.vv.org" xmlns:c="http://www.ww.org">              <!-- <mm> pertenece a "http://www.ww.org" --!>
+
+			<rr>Good bye</rr>                                                      <!-- <mm> pertenece a  "http://www.vv.org" --!>
+
+		</c:qq>
+
+	</a:nn>
+
+
+</mm>
+

@@ -1,0 +1,22 @@
+<company>
+ <furnitue>
+ <table>
+ <colours>
+ <white/>
+ <pink/>
+ <orange xmlns="http://www.noemi.org/ns/colours">
+ </orange>
+  </colours>
+   </table>
+   </furnitue>
+   <fruits>
+   <strawberry>
+   </strawberr>
+   <grape>
+   </grape>
+   <dragon_fruit/>
+   <fr:orange type="delicious">
+   <fr:provider> Santa Margarita</fr:provider>
+   </fr:orange>
+   </fruita>
+   </company>

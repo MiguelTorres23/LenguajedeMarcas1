@@ -1,0 +1,22 @@
+<?xml version=1.0 ?>
+
+<isc xmlns="http://www.leerlibros.net/ns/book" <xmls:xmlns="http://www.leerlibros.net/ns/xmls"
+  
+	 
+
+<book>
+  <title>Learning XML</title>
+    <description>This second edition of the bestselling Learning XML provides web 
+      developers with a concise but grounded understanding of XML</description>
+  </book>
+
+esides, you have a second XML fragment that uses title in a employees record:
+
+<employee>
+
+
+   <name>Erik T. Ray</name> 
+   <title>Mr. </title>
+   <publications>
+   </publications>
+</employee>

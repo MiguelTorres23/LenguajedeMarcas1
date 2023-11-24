@@ -1,0 +1,23 @@
+<Travel>France
+  <NameSurnameTravellers>
+    <name id="1">  Miguel </name> 
+    <surname id="1"> Torres Moreno</surname>
+    <name id="2"> Veronica  </name>
+    <surname id="2"> Torres Moreno</surname>
+    
+     <benginData> 5/01/2024</benginData>
+     <endData>10/01/2024</endData>
+      
+      <placeOfDepartue>Santiago de Compostela</placeOfDepartue>
+      
+       <listWithDestination>
+            <nameoftheCity id="1">Paris </nameoftheCity>
+            <nameoftheHotel id="2">Hotel Marignan Champs-Elysées</nameoftheHotel> 
+            <numberofnights id="3">5 </numberofnights>
+            
+        <![CDATA[<priceofthetrip> 2930 €</priceofthetrip>]]>
+       </listWithDestination>
+	   
+	   
+ </NameSurnameTravellers>
+</Travel>

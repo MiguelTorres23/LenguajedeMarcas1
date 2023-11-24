@@ -1,0 +1,31 @@
+<!--This is a comment-->
+
+<animals>
+ <animal>
+<info>"Boys don"t cry"</info>
+  <specie>Orangutang
+   <mammal/>
+    <Mammal/>
+    <cancion>
+
+the..
+
+
+</cancion>
+<numberLegs>4</number_of_legs>
+<habitat> Important informacion
+
+<jungle/>
+ </habitat>
+<value>
+5 &lt; 6 &gt; 4&
+
+</value>
+<value>
+Something &#38;
+</value>
+ </animal>
+
+<animal id="2">
+<a/nimal>
+   </animals>                                                                        

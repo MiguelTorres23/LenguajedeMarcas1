@@ -1,0 +1,73 @@
+
+*{
+ font-family: Arial;
+ src: url('fonts/robot') 
+}
+
+article{
+background-color: #354BF7;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
+p{
+    color: white;
+    text-align: justify;
+    padding-left: 25px;   
+    padding-right: 25px; 
+   
+   padding-bottom: 25px;  /**para poner el texto hacia ña izquierda*/
+   line-height: 2em;        /**para poner espacios entre lineas*/
+}
+
+section{
+    background-color: #354BF7;
+    padding-top: 10PX;
+  
+}
+
+h2{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+
+    background-color: #C70039;
+    background-color:#C70039(255,255,255,.5);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h3{
+    color: white;
+    text-align: justify; 
+    font-size: 35px;
+
+
+}
+a {
+    color: white;
+    background-color: #C70039;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+
+}
+span{
+    color: #354BF7;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
